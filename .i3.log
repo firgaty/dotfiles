@@ -1,0 +1,65 @@
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+[libi3] ../../i3-4.14/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.14/libi3/font.c Using Pango font monospace, size 8
+Keypress 36, state raw = 0
+sym =  (65293)
+Modifier keycode for Mod1: 0x40
+Modifier keycode for Mod1: 0x6c
+Modifier keycode for Mod1: 0xcd
+Modifier keycode for Mod4: 0x85
+Modifier keycode for Mod4: 0x86
+Modifier keycode for Mod4: 0xce
+Modifier keycode for Mod4: 0xcf
+Keypress 116, state raw = 0
+sym = T (65364)
+Modifier keycode for Mod1: 0x40
+Modifier keycode for Mod1: 0x6c
+Modifier keycode for Mod1: 0xcd
+Modifier keycode for Mod4: 0x85
+Modifier keycode for Mod4: 0x86
+Modifier keycode for Mod4: 0xce
+Modifier keycode for Mod4: 0xcf
+Keypress 111, state raw = 0
+sym = R (65362)
+Modifier keycode for Mod1: 0x40
+Modifier keycode for Mod1: 0x6c
+Modifier keycode for Mod1: 0xcd
+Modifier keycode for Mod4: 0x85
+Modifier keycode for Mod4: 0x86
+Modifier keycode for Mod4: 0xce
+Modifier keycode for Mod4: 0xcf
+Keypress 36, state raw = 0
+sym =  (65293)
+creating "/home/firgaty/.config/i3/config"...
+
+(google-chrome:2296): Gtk-WARNING **: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(google-chrome:2296): Gtk-WARNING **: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(google-chrome:2296): Gtk-WARNING **: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+[2296:2331:0915/151056.395798:ERROR:token_service_table.cc(130)] Failed to decrypt token for service AccountId-101378912034012682817
+[2296:2327:0915/151056.435064:ERROR:gcm_store_impl.cc(927)] Failed to restore security token.
+[42:79:0915/151057.111598:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../../i3-4.14/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1821, y = 13
+button released on x = 1821, y = 13
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5642.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5642.nagbar_cmd
+Exiting due to signal.
+[libi3] ../../i3-4.14/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.14/libi3/font.c Using Pango font monospace, size 8
+urxvt: X connection to ':0' broken, unable to recover, exiting.
+[2296:2296:0915/152324.864114:ERROR:chrome_browser_main_extra_parts_x11.cc(62)] X IO error received (X server probably went away)
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../../i3-4.14/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1821, y = 13
+button released on x = 1821, y = 13
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5642.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5642.nagbar_cmd
+[2399:2399:0915/152324.867937:ERROR:x11_util.cc(89)] X IO error received (X server probably went away)
